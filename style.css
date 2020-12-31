@@ -1,0 +1,41 @@
+body{
+  text-align:center;
+  background-image: url("https://data.whicdn.com/images/267317953/original.gif");
+  background-size: cover;
+}
+  nav{
+      background-color: rgb(128, 0, 0);
+        height: 70px;
+        margin-top: -10;
+        position: fixed; 
+        width: 99%;
+        justify-content: center;
+    }
+    nav ul {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      list-style: none;
+      padding: 0px;
+      font-size: 25px;
+    }
+    nav ul li{
+      margin:0 50px;
+      size: 2000px;
+  }
+  
+    h1{
+      text-align: center;
+      font-size: 120px;
+      color: white;
+    }
+    a{
+        text-decoration:none ;
+        color: rgb(255, 255, 255);
+        font-family: sans-serif;
+      }
+ 
+h2{
+    font-size: 50px;
+    color: white;
+}
